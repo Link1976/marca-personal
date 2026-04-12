@@ -27,54 +27,59 @@ con visión global (Asia-Pacífico, Australia, Sudáfrica, Europa) y perfil tecn
 
 ---
 
-## Perfil LinkedIn — Estado actual y mejoras
+## Perfil LinkedIn — Estado y cambios realizados
 
-### Titular actual
-`Wholesale Country Credit Manager Spain & Portugal`
+### Titular
+**Anterior:** `Wholesale Country Credit Manager Spain & Portugal`
+**Nuevo (actualizado):** `Finance & Business Professional | Python & AI practitioner | Connecting business insight with financial decisions`
 
-**Problema**: descriptivo pero frío. Es el cargo, no la persona.
+### About
+**Actualizado en LinkedIn:**
 
-### About — Problemas detectados
-- Lenguaje corporativo vacío ("consistently delivered exceptional results", "passion for innovation")
-- Tecnología e IA completamente ausentes
-- No refleja la trayectoria internacional real ni la curiosidad intelectual
+Over 25 years working across finance, risk and business development — in different industries, companies and geographies. The common thread has always been the same: understanding how businesses work and connecting that to sound financial and commercial decisions.
 
-### Skills — Diagnóstico
-**A eliminar o reducir**: skills de época Teka (Export, Product Sourcing, International Sales...)
+I started in credit analysis at HP and Siemens, spent nearly a decade running commercial and financial operations across Asia-Pacific and South Africa — living in Melbourne, Bangkok, Athens and Istanbul along the way. For the last 13 years I've been at John Deere Financial in Spain and Portugal. Beyond credit and risk management, I've been involved in shaping the dealership network, developing new business models like agricultural machinery rental, leading systems implementations and working on data analytics projects.
+
+Curiosity has always been part of how I work. I've followed technology closely over the years, and the arrival of AI coding tools has been a step change — it allowed me to move from having ideas to actually building them.
+
+Outside of work: Family, golf, cycling, and music from the 60s and 70s.
+
+### Skills — Diagnóstico y plan
+**A eliminar**: skills de época Teka (Export, Product Sourcing, International Sales...)
 reflejan quién era hace 15 años.
 
 **A mantener**: Financial Analysis, Strategy, Business Development, Negotiation
 
-**A añadir urgentemente**:
+**A añadir**:
 - Credit Management / Credit Risk
 - Risk Management
 - Artificial Intelligence / AI
-- Python (ya está, pero sin endorsements y enterrado)
+- Python (ya está, enterrado — subir arriba)
 - Data Analysis
-- SQL / SQLite
-- Portfolio Analysis
+- Power BI / Databricks
+- SQL
 
-**Reorganización propuesta en 3 bloques**:
-1. Finanzas y riesgo: Credit Management, Risk Management, Financial Analysis, Portfolio Management, Negotiation
-2. Tecnología y datos: Python, AI/LLM, Data Analysis, Power Platform, SQL
+**Reorganización en 3 bloques**:
+1. Finanzas y riesgo: Credit Management, Risk Management, Financial Analysis, Negotiation
+2. Tecnología y datos: Python, AI/LLM, Data Analysis, Power BI, Power Platform
 3. Negocio y estrategia: Business Development, Strategy, International Business, Business Planning
 
 ---
 
 ## Perfil personal (para narrativa y contenido)
 - 25+ años experiencia: finanzas, riesgo, ventas, desarrollo de negocio
-- Empresas: HP, Siemens Financial Services, Teka Group (8 años, Asia-Pacífico), John Deere Financial (13 años)
+- Empresas: HP → Siemens Financial Services → Teka Group (8 años, Asia-Pacífico) → John Deere Financial (13 años)
 - Formación: Economía (U. Cantabria) + MBA IE Business School
-- Tecnología: Python, IA/LLM, datos — proyectos propios reales
+- Tecnología: Python, IA/LLM, datos — proyectos propios reales (portfolio-monitor, etc.)
 - Vivió en: Melbourne, Bangkok, Atenas, Estambul + viajes por Asia-Pacífico y Sudáfrica
-- Aficiones: golf (Open de Inglaterra cada verano), ciclismo (4 Quebrantahuesos), música 60/70 (Beatles)
+- Aficiones: familia, golf (Open de Inglaterra cada verano), ciclismo (4 Quebrantahuesos), música 60/70 (Beatles)
 - Perfil anglosajón: afinidad con UK, USA, Australia
 
 ---
 
 ## Pendiente
-- [ ] Redactar nuevo titular LinkedIn
-- [ ] Reescribir About desde cero
+- [x] Redactar nuevo titular LinkedIn
+- [x] Reescribir About desde cero
 - [ ] Actualizar skills
-- [ ] Reescribir experiencia JD Bank (13 años sin actualizar)
+- [ ] Reescribir experiencia JD Bank
 - [ ] Decidir formato y tono de primeras publicaciones
