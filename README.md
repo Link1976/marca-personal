@@ -77,9 +77,24 @@ reflejan quién era hace 15 años.
 
 ---
 
-## Pendiente
+## Acciones de contenido y visibilidad
+
+### Corto/medio plazo
+- [ ] Comentar estratégicamente en posts de personas relevantes del sector (finanzas, IA, negocio)
+- [ ] Newsletter ligera mensual — 3-4 párrafos, observaciones propias, sin pretensiones
+- [ ] Documentar proyectos en GitHub con READMEs bien escritos (portfolio-monitor y otros)
+
+### Largo plazo
+- [ ] Hablar en eventos o podcasts (finanzas, IA, inversión)
+- [ ] Mentor informal (ADPList u otras plataformas)
+
+---
+
+## Pendiente — Optimización perfil
 - [x] Redactar nuevo titular LinkedIn
 - [x] Reescribir About desde cero
 - [ ] Actualizar skills
 - [ ] Reescribir experiencia JD Bank
+- [ ] Revisar estructura del perfil LinkedIn (orden y secciones)
+- [ ] Crear web personal con curriculum y experiencia
 - [ ] Decidir formato y tono de primeras publicaciones
