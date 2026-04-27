@@ -44,25 +44,16 @@ Curiosity has always been part of how I work. I've followed technology closely o
 
 Outside of work: Family, golf, cycling, and music from the 60s and 70s.
 
-### Skills — Diagnóstico y plan
-**A eliminar**: skills de época Teka (Export, Product Sourcing, International Sales...)
-reflejan quién era hace 15 años.
+### Skills — Estado actual (abril 2026)
 
-**A mantener**: Financial Analysis, Strategy, Business Development, Negotiation
+**Bloque 1 — Finanzas y riesgo:**
+Credit Management, Credit Risk Management, Risk Management, Financial Analysis, Financial Reporting, Negotiation, Budget Management
 
-**A añadir**:
-- Credit Management / Credit Risk
-- Risk Management
-- Artificial Intelligence / AI
-- Python (ya está, enterrado — subir arriba)
-- Data Analysis
-- Power BI / Databricks
-- SQL
+**Bloque 2 — Negocio y estrategia:**
+Business Development, Business Strategy, Strategy, Strategic Planning, Business Planning, International Business, Team Leadership, Management
 
-**Reorganización en 3 bloques**:
-1. Finanzas y riesgo: Credit Management, Risk Management, Financial Analysis, Negotiation
-2. Tecnología y datos: Python, AI/LLM, Data Analysis, Power BI, Power Platform
-3. Negocio y estrategia: Business Development, Strategy, International Business, Business Planning
+**Bloque 3 — Tecnología y datos:**
+Python, Artificial Intelligence (AI), Data Analysis, Power BI, Microsoft Power Platform, SQL
 
 ---
 
@@ -93,8 +84,25 @@ reflejan quién era hace 15 años.
 ## Pendiente — Optimización perfil
 - [x] Redactar nuevo titular LinkedIn
 - [x] Reescribir About desde cero
-- [ ] Actualizar skills
-- [ ] Reescribir experiencia JD Bank
+- [x] Actualizar skills
+- [ ] Reescribir experiencia JD Bank — texto redactado, pendiente de publicar (ver borrador abajo)
 - [ ] Revisar estructura del perfil LinkedIn (orden y secciones)
 - [ ] Crear web personal con curriculum y experiencia
 - [ ] Decidir formato y tono de primeras publicaciones
+
+---
+
+## Borrador — Experiencia JD Bank (pendiente de publicar)
+
+Managing credit risk and portfolio health for John Deere's dealer network across Spain and Portugal. The role sits at the intersection of financial risk, business development and technology — working closely with the equipment division and the dealer network. Managing a team of 2.
+
+• Credit underwriting and credit limit structuring for the John Deere dealer network in Spain and Portugal; portfolio management (~€200M), risk monitoring and inventory verification in line with JD Bank credit policy
+• Annual financial planning with dealers, including performance tracking and corrective action plans
+• Active involvement in dealer turnaround plans, developed in close collaboration with the equipment division
+
+• Developed and leads the Dealer Health Dashboard (Power BI) — near-real-time financial monitoring of the dealer network with predictive alerts on financial deterioration
+• Leading the implementation of SAP Banking for JD Bank in Europe
+• Led the development of a digitalization initiative for agricultural machinery rental in Spain — streamlining the end-to-end rental process and channeling demand through a digital platform, resulting in a 400% increase in rental business and portfolio
+• Contributed to the strategic restructuring of the John Deere dealer network in Spain and Portugal, in close collaboration with the equipment division
+
+• Zero credit losses maintained throughout a 13-year tenure
