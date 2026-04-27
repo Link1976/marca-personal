@@ -85,7 +85,7 @@ Python, Artificial Intelligence (AI), Data Analysis, Power BI, Microsoft Power P
 - [x] Redactar nuevo titular LinkedIn
 - [x] Reescribir About desde cero
 - [x] Actualizar skills
-- [ ] Reescribir experiencia JD Bank — texto redactado, pendiente de publicar (ver borrador abajo)
+- [x] Reescribir experiencia JD Bank — texto redactado, pendiente de publicar (ver borrador abajo)
 - [ ] Revisar estructura del perfil LinkedIn (orden y secciones)
 - [ ] Crear web personal con curriculum y experiencia
 - [ ] Decidir formato y tono de primeras publicaciones
