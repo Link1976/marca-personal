@@ -85,24 +85,19 @@ Python, Artificial Intelligence (AI), Data Analysis, Power BI, Microsoft Power P
 - [x] Redactar nuevo titular LinkedIn
 - [x] Reescribir About desde cero
 - [x] Actualizar skills
-- [x] Reescribir experiencia JD Bank — texto redactado, pendiente de publicar (ver borrador abajo)
-- [ ] Revisar estructura del perfil LinkedIn (orden y secciones)
+- [x] Reescribir y publicar experiencia JD Bank
+- [x] Revisar estructura del perfil LinkedIn (diagnóstico realizado — acciones abajo)
 - [ ] Crear web personal con curriculum y experiencia
 - [ ] Decidir formato y tono de primeras publicaciones
 
 ---
 
-## Borrador — Experiencia JD Bank (pendiente de publicar)
+## Estructura del perfil LinkedIn — Acciones pendientes
 
-Managing credit risk and portfolio health for John Deere's dealer network across Spain and Portugal. The role sits at the intersection of financial risk, business development and technology — working closely with the equipment division and the dealer network. Managing a team of 2.
-
-• Credit underwriting and credit limit structuring for the John Deere dealer network in Spain and Portugal; portfolio management (~€200M), risk monitoring and inventory verification in line with JD Bank credit policy
-• Annual financial planning with dealers, including performance tracking and corrective action plans
-• Active involvement in dealer turnaround plans, developed in close collaboration with the equipment division
-
-• Developed and leads the Dealer Health Dashboard (Power BI) — near-real-time financial monitoring of the dealer network with predictive alerts on financial deterioration
-• Leading the implementation of SAP Banking for JD Bank in Europe
-• Led the development of a digitalization initiative for agricultural machinery rental in Spain — streamlining the end-to-end rental process and channeling demand through a digital platform, resulting in a 400% increase in rental business and portfolio
-• Contributed to the strategic restructuring of the John Deere dealer network in Spain and Portugal, in close collaboration with the equipment division
-
-• Zero credit losses maintained throughout a 13-year tenure
+Diagnóstico realizado. Acciones a aplicar:
+- [ ] Ocultar/desactivar la sección Activity (solo 1 comentario de hace 11 meses, perjudica más que ayuda mientras no haya publicaciones nuevas)
+- [ ] Mover Skills justo debajo de Experience (ahora está después de Education y Certifications)
+- [ ] Añadir sección Featured con el repo de portfolio-monitor (GitHub) y otros proyectos cuando los haya
+- [ ] Verificar que Spanish está como idioma (Native or Bilingual)
+- [ ] Pedir 2-3 recomendaciones nuevas a managers/colegas actuales (la única visible es de 2011)
+- [ ] A medio plazo: añadir certificaciones más relevantes (Python, AI, riesgo de crédito)
