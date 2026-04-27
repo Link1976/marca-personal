@@ -97,7 +97,7 @@ Python, Artificial Intelligence (AI), Data Analysis, Power BI, Microsoft Power P
 Diagnóstico realizado. Acciones a aplicar:
 - [ ] Ocultar/desactivar la sección Activity (solo 1 comentario de hace 11 meses, perjudica más que ayuda mientras no haya publicaciones nuevas)
 - [ ] Mover Skills justo debajo de Experience (ahora está después de Education y Certifications)
-- [ ] Añadir sección Featured con el repo de portfolio-monitor (GitHub) y otros proyectos cuando los haya
+- [ ] Añadir sección Featured — pendiente de decidir qué proyectos de GitHub destacar (portfolio-monitor, commodities-dashboard...)
 - [ ] Verificar que Spanish está como idioma (Native or Bilingual)
 - [ ] Pedir 2-3 recomendaciones nuevas a managers/colegas actuales (la única visible es de 2011)
 - [ ] A medio plazo: añadir certificaciones más relevantes (Python, AI, riesgo de crédito)
